@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TripBankApp</string>
+    <string-array name="options">
+        <item>DEPOSIT</item>
+        <item>WITHDRAW</item>
+        <item>TRANSFER</item>
+    </string-array>
+
+</resources>
